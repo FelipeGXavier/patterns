@@ -1,0 +1,1 @@
+Contexto: Um objeto que representa uma planilha, essa planilha pode gerar diferentes dados de acordo com a inserção dada pelo cliente. Pode ser reutilizado um objeto já preenchido com mais informações, sendo que alterações no objeto clonado não são refletidas no mesmo, favorecendo imutabilidade.

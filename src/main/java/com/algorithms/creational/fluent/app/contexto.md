@@ -1,0 +1,1 @@
+Contexto: Provisão fictícia de uma nota fiscal, nesta nota fiscal é exibido informações sobre o produto e sobre o cliente, no qual cada um destes artefatos pode ter algum dos seus campos opcionais. 

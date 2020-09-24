@@ -1,0 +1,1 @@
+Contexto: Uma rede de loja de tacos possui duas modalidades para servir o prato, um seguindo a receita normal e outra com temperos especifícos que sigam o contrato declarado. Sendo assim, dois produtos podem ser produzidos, tacos normais e com tempero em diferentes nacionalidades.
